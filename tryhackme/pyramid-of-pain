@@ -2,7 +2,7 @@
 
 **Category:** Threat Intelligence  
 **Difficulty:** Easy  
-**Date Completed:** July 22, 2025  
+**Date Completed:** July 17, 2025  
 **Room Link:** [Pyramid of Pain](https://tryhackme.com/room/pyramidofpain)
 
 ---
@@ -27,4 +27,4 @@
 - SIEMs for correlation
 
 ## 🎯 Flag
-- ✅ THM{tactics_techniques_impact_more_than_hashes}
+- ✅ THM{PYRAMIDS_COMPLETE}
