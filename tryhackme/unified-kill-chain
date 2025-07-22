@@ -1,0 +1,31 @@
+# 🧬 TryHackMe: Unified Kill Chain
+
+**Category:** Threat Modelling / Advanced  
+**Difficulty:** Medium  
+**Date Completed:** July 21, 2025  
+**Room Link:** [Unified Kill Chain](https://tryhackme.com/room/unifiedkillchain)
+
+---
+
+## 🔍 What I Learned
+- The Unified Kill Chain combines MITRE ATT&CK and the traditional Kill Chain for better visibility across the attack lifecycle.
+- Helps align detection engineering with real-world adversary behaviors.
+
+## 🧠 Key Components
+- Maps 18 phases across 3 meta-groups: Initial Foothold, Network Propagation, and Action on Objectives.
+- Extends traditional models to account for lateral movement, persistence, and privilege escalation.
+
+## 🛠️ Use Cases
+- Helps blue teams build more complete detection rules.
+- Useful for red team emulation based on real APT behaviors.
+
+## 🧠 Comparison Table
+
+| Model | Stages | Focus |
+|-------|--------|-------|
+| Cyber Kill Chain | 7 | Linear, Military-based |
+| MITRE ATT&CK | 14 Tactics | Behavior-focused |
+| Unified Kill Chain | 18 | Hybrid (Behavior + Phases) |
+
+## 🎯 Flag
+- ✅THM{UKC_SCENARIO}
